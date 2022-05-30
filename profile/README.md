@@ -1,12 +1,10 @@
-## Hi there 👋
+## Olá, Somos a SCC👋
 
-<!--
+**ORG oficial de sobrevivência no curso de Ciência da Computação**
 
-**Here are some ideas to get you started:**
+A ideia é fazer o acervo com todo o conteúdo do curso!! Utilizando o conhecimento de varios alunos. Por enquanto o acesso é restrito e a organização só entrará em vigor em um futuro próximo.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
+
